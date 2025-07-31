@@ -1,0 +1,10 @@
+bb=[]
+b1=input('enter the name:')
+bb.append(b1)
+b2=input('enter the name:')
+bb.append(b2)
+b3=input("enter the name:")
+bb.append(b3)
+b4=input("enter the name:")
+bb.append(b4)
+print(bb)

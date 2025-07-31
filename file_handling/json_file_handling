@@ -1,0 +1,8 @@
+{
+    "name": "kartik",
+    "age": 25,
+    "marks": {
+        "math": 80,
+        "english": 90
+    }
+}

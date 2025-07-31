@@ -1,0 +1,50 @@
+[
+    {
+        "name": "abhijit",
+        "age": 23,
+        "marks": {
+            "math": 70,
+            "english": 90
+        }
+    },
+    {
+        "name": "badal",
+        "age": 22,
+        "marks": {
+            "math": 75,
+            "english": 80
+        }
+    },
+    {
+        "name": "deepak",
+        "age": 23,
+        "marks": {
+            "math": 90,
+            "english": 45
+        }
+    },
+    {
+        "name": "deepak",
+        "age": 23,
+        "marks": {
+            "math": 90,
+            "english": 45
+        }
+    },
+    {
+        "name": "deepak",
+        "age": 23,
+        "marks": {
+            "math": 90,
+            "english": 45
+        }
+    },
+    {
+        "name": "deepak",
+        "age": 23,
+        "marks": {
+            "math": 90,
+            "english": 45
+        }
+    }
+]

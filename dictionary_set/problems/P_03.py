@@ -1,0 +1,11 @@
+s=()
+n1=input("enter the number:")
+s.add(int(n1))
+n2=input("enter the number:")
+s.add(int(n2))
+n3=input("enter the number:")
+s.add(int(n3))
+n4=input("enter the number:")
+s.add(int(n4))
+
+print(s)
