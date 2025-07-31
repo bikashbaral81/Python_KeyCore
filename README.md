@@ -1,4 +1,4 @@
 # Python_KeyCore
-This is my first Repository.
+Own Repository.
 <br>
 Author-Bikash baral
